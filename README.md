@@ -1,6 +1,8 @@
 # Personal Dashboard Web App
 
 A clean, responsive, and functional **personal dashboard** web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
+---
 [Live Demo](https://dash-board-liard.vercel.app/)
 
 ---
