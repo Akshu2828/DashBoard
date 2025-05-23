@@ -16,7 +16,7 @@ A clean, responsive, and functional **personal dashboard** web application built
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js
 - **Language**: TypeScript
