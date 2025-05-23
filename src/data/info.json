@@ -1,0 +1,71 @@
+{
+  "name": "Akshay Gangurde",
+  "photo": "/ProfileImg.jpeg",
+  "bio": "Aspiring web developer passionate about building impactful applications.",
+  "contact": {
+    "email": "agangurde771@gmail.com",
+    "phone": "+91 7666284779"
+  },
+  "education": [
+    {
+      "degree": "B.Sc in Mathematics",
+      "institution": "North Maharashtra University, Jalgaon",
+      "year": "2019 - 2022"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Wanderlust Travel website",
+      "description": "Developed a travel website using Next.js, Tailwind CSS, and MongoDB",
+      "points": [
+        "Built a full-stack travel platform with secure authentication, CRUD operations for listings using Next.js API routes, Cloudinary image uploads, and interactive maps using MapTiler.",
+        "Developed a responsive, modern UI with Tailwind CSS and integrated protected routes with JWT for enhanced security."
+      ]
+    },
+    {
+      "name": "Pixora Social Media App",
+      "description": "Created a social media application using Next.js, Redux, MongoDB, Node.js, Express.js, and JWT",
+      "points": [
+        "Developed a responsive frontend using Next.js and managed global state using Redux Toolkit.",
+        "Implemented user authentication, post creation, image uploads, likes, and comments.",
+        "Integrated Socket.io for Real-time chat functionality."
+      ]
+    },
+    {
+      "name": "ApnaVideoCall Video Conferencing App",
+      "description": "Developed a video conferencing application using React, Node.js, Express.js, and Socket.io",
+      "points": [
+        "Used WebRTC and Socket.io to enable peer-to-peer video/audio communication.",
+        "Developed frontend UI with React to allow users to join/leave meetings, enable/disable camera and mic.",
+        "Built the backend server using Express and managed Real-time signaling with Socket.io."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Office Admin",
+      "company": "Shri Sant Nagebaba Multistate co-operative credit Society Ltd.",
+      "duration": "April 2023 - Jan 2025",
+      "description": "Managed office operations and assisted in administrative tasks.",
+      "responsibilities": [
+        "Coordinated office activities and operations to secure efficiency.",
+        "Managed office supplies and inventory.",
+        "Assisted in the preparation of regularly scheduled reports."
+      ]
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "Redux",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Git",
+    "GitHub"
+  ]
+}
